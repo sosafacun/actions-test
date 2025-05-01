@@ -1,3 +1,11 @@
+# LinkedIn Learning project on GitHub actions
+This repo is a test for hands on experience on Github actions. How to set them up, configure and publish them to the marketplace.
+
+I'm in no way, shape, or form associated with any of the content here. It was provided by their original authors as a way to test actions.
+
+
+
+
 # The Future in Tech
 
 <img src="https://raybo.org/tfit-feed/images/artwork.jpg" width="250">
